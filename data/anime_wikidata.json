@@ -1,0 +1,559 @@
+{
+    "head": {
+        "vars": [
+            "anime",
+            "animeLabel",
+            "fecha",
+            "autorLabel"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q173836"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q173836"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q174390"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q174390"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q174972"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Touched by an Angel"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q175553"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q175553"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q176027"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Tales of the Unexpected"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q176615"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Muhteşem Yüzyıl"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q177153"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q177153"
+                },
+                "fecha": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "1976-10-26T00:00:00Z"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q177825"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Die Anrheiner"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q178724"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "T. J. Hooker"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q178893"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q178893"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q179837"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Out of This World"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q180228"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Smallville"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q180238"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q180238"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q180347"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Z Cars"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q181321"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Brookside"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q181492"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Mockingbird Lane"
+                },
+                "fecha": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2012-01-01T00:00:00Z"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q181943"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "I Love Lucy"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q181998"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "The Love Boat"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q182713"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Tiempos Inolvidables"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q182759"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "A History of Britain"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q183209"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "SOKO Stuttgart"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q183513"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Buffy the Vampire Slayer"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q183574"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q183574"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q184342"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Los Magos de Waverly Place"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q185059"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Days of Our Lives"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q185810"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q185810"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q186219"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "True Blood"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q187239"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Zeke y Luther"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q187441"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q187441"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q187462"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Stargate SG-1"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q189068"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Monk"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q189267"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Two and a Half Men"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q189350"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "30 Rock"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q189411"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "CSI: Miami"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q190289"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q190289"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q191930"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Hora Cero"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q192259"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "CSI: Nueva York"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q192837"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Sherlock"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q193462"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Gilmore Girls"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q193973"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q193973"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q194023"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q194023"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q194213"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Stargate Universe"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q194427"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "The O. C."
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q195195"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q195195"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q195732"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Soul Train"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q196174"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q196174"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q196226"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Starsky y Hutch"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q197867"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "20/20"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q197897"
+                },
+                "animeLabel": {
+                    "xml:lang": "es",
+                    "type": "literal",
+                    "value": "Emily Owens"
+                }
+            },
+            {
+                "anime": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q199193"
+                },
+                "animeLabel": {
+                    "type": "literal",
+                    "value": "Q199193"
+                }
+            }
+        ]
+    }
+}
